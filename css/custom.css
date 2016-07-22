@@ -1,0 +1,41 @@
+#navigation {
+	padding: 10px;
+	padding-left: 20px;
+	border-top: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+	color: #000000;
+}
+
+#navigation a {
+	color: #333333;
+	font-weight: bold;
+}
+
+#navigation a:hover {
+	color: #009900;
+}
+
+#registration td {
+	padding: 4px;
+	text-align: right;
+}
+
+textarea {
+	width:400px;
+	height:150px;
+}
+
+ul li {
+    padding:5px 0;
+}
+ul li input[type="text"], ul li input[type="password"] {
+    width:200px;
+}
+
+input[type=submit], input[type=button], button {
+	padding: 4px;
+}
+
+.hidden {
+	display: none;
+}
